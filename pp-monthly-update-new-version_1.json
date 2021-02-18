@@ -1,0 +1,62 @@
+{
+    "PAON": "58B",
+    "SAON": "",
+    "Street": "LONDON ROAD",
+    "Locality": "",
+    "Town/City": "ST ALBANS",
+    "District": "ST ALBANS",
+    "County": "HERTFORDSHIRE",
+    "Postcode": "AL1 1NG",
+    "Property Type": "F",
+    "Transactions": [
+        {
+            "\u00ef\u00bb\u00bfTransaction unique identifier": "{73F4DCE3-AF6E-43A4-B6EB-4DA19DCDB8EF}",
+            "Price": "167500",
+            "Date of Transfer": "14/03/2014 00:00",
+            "Old/New": "N",
+            "Duration": "L",
+            "PPD\u00c2\u00a0Category Type": "A",
+            "Record Status - monthly file only": "C"
+        }
+    ]
+}
+{
+    "PAON": "58A",
+    "SAON": "",
+    "Street": "LONDON ROAD",
+    "Locality": "",
+    "Town/City": "ST ALBANS",
+    "District": "ST ALBANS",
+    "County": "HERTFORDSHIRE",
+    "Postcode": "AL1 1NG",
+    "Property Type": "F",
+    "Transactions": [
+        {
+            "\u00ef\u00bb\u00bfTransaction unique identifier": "{F2D71B85-E7BF-4D30-8BEC-7EA521D63678}",
+            "Price": "192000",
+            "Date of Transfer": "23/03/2012 00:00",
+            "Old/New": "N",
+            "Duration": "L",
+            "PPD\u00c2\u00a0Category Type": "A",
+            "Record Status - monthly file only": "C"
+        },
+        {
+            "\u00ef\u00bb\u00bfTransaction unique identifier": "{01784A30-18A7-4C6D-9399-5D17A3DAD5BD}",
+            "Price": "155000",
+            "Date of Transfer": "31/07/2008 00:00",
+            "Old/New": "N",
+            "Duration": "L",
+            "PPD\u00c2\u00a0Category Type": "A",
+            "Record Status - monthly file only": "C"
+        },
+        {
+            "\u00ef\u00bb\u00bfTransaction unique identifier": "{B82222EC-D4D7-6691-E053-6B04A8C02FB2}",
+            "Price": "240000",
+            "Date of Transfer": "16/10/2020 00:00",
+            "Old/New": "N",
+            "Duration": "L",
+            "PPD\u00c2\u00a0Category Type": "A",
+            "Record Status - monthly file only": "A"
+        }
+    ]
+}
